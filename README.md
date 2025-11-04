@@ -100,3 +100,5 @@ window.APP_CONFIG.API_BASE = "https://drone-api.onrender.com";
 | View Config | 🟢 | ดึงข้อมูลจาก API ได้ |
 | Temperature Log Form | 🟢 | POST log สำเร็จ |
 | View Logs | 🟢 | แสดงล่าสุดก่อน จำกัด 12 |
+
+© 2025 • Drone Frontend Project
